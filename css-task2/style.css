@@ -1,0 +1,37 @@
+* {
+    background-color: #333300;
+    color: white;
+    font-size: 17px;
+}
+h1, h3 {
+    color: #6699cc;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.H1 {
+    font-size: 50px;
+}
+.head {
+    color: yellow;
+} 
+/* .head-p {
+    border-bottom: 2px solid white;
+} */
+.H3 {
+    font-size: 20px;
+}
+a {
+    color: red;
+}
+
+
+
+
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+#sad {
+    width: 350px;
+}
